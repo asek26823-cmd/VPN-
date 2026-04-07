@@ -13,12 +13,12 @@
 ### Clash 订阅链接
 
 - 项目文件：[./output/clash.yaml](./output/clash.yaml)
-- GitHub Raw：`https://raw.githubusercontent.com/asek26823-cmd/VPN-/main/output/clash.yaml`
+- GitHub Raw：`https://raw.githubusercontent.com/asek26823-cmd/free-jichang-clash-v2ray/main/output/clash.yaml`
 
 ### V2Ray 订阅链接
 
 - 项目文件：[./output/v2ray.txt](./output/v2ray.txt)
-- GitHub Raw：`https://raw.githubusercontent.com/asek26823-cmd/VPN-/main/output/v2ray.txt`
+- GitHub Raw：`https://raw.githubusercontent.com/asek26823-cmd/free-jichang-clash-v2ray/main/output/v2ray.txt`
 
 ---
 
