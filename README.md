@@ -8,8 +8,6 @@
 
 ## 免费订阅链接
 
-当前项目会将聚合结果输出到 `output/` 目录，当前只生成 Clash 和 V2Ray 两种订阅文件。
-
 ### Clash 订阅链接
 
 - 项目文件：[./output/clash.yaml](./output/clash.yaml)
