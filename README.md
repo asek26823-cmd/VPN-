@@ -46,7 +46,7 @@
 | --- | --- | --- | --- |
 | [西游云](#西游云) | [点击进入](https://www.xiyou666.xyz/?code=fCsEQhYV) | 小流量 ¥9/月 120GB；大流量 ¥38/月 500GB | 轻量 ¥39 100GB；高能 ¥159 500GB |
 | [狗狗加速](#狗狗加速) | [点击进入](https://invite.dginv.click/#/register?code=GA0W4W7K) | 公开价位低至 ¥15.9/月；当前常见月付档位约 ¥15.9 / ¥20.9 / ¥39.9 | 不支持 |
-| [闪电猫](#闪电猫) | [点击进入](https://webinv03.sc-aff.cc/auth/register?code=fsIPlrDt) | 迷你猫 ¥20/月 100GB；闪电猫 ¥40/月 200GB；霹雳猫 ¥100/月 500GB；雷神猫 ¥200/月 1000GB | 不支持 |
+
 
 ---
 
